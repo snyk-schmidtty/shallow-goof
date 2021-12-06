@@ -10,7 +10,7 @@
   "dependencies": {
     "qs": "0.0.6",
     "node-uuid": "1.4.0",
-    "crossenv": "1.0.1",    
+    "crossenv": "1.0.1"   
   }
 }
 
